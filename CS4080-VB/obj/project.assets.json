@@ -476,11 +476,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\piolo\\source\\repos\\CS4080-VB\\CS4080-VB\\CS4080-VB.vbproj",
+      "projectUniqueName": "C:\\Users\\piolo\\Desktop\\Library-Management-System\\CS4080-VB\\CS4080-VB.vbproj",
       "projectName": "CS4080-VB",
-      "projectPath": "C:\\Users\\piolo\\source\\repos\\CS4080-VB\\CS4080-VB\\CS4080-VB.vbproj",
+      "projectPath": "C:\\Users\\piolo\\Desktop\\Library-Management-System\\CS4080-VB\\CS4080-VB.vbproj",
       "packagesPath": "C:\\Users\\piolo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\piolo\\source\\repos\\CS4080-VB\\CS4080-VB\\obj\\",
+      "outputPath": "C:\\Users\\piolo\\Desktop\\Library-Management-System\\CS4080-VB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
